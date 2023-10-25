@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/sqld/static/js/main.7fcf1658.js",
+    "static/js/787.f6007c62.chunk.js": "/sqld/static/js/787.f6007c62.chunk.js",
+    "index.html": "/sqld/index.html",
+    "main.7fcf1658.js.map": "/sqld/static/js/main.7fcf1658.js.map",
+    "787.f6007c62.chunk.js.map": "/sqld/static/js/787.f6007c62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7fcf1658.js"
+  ]
+}
